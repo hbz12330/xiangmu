@@ -1,0 +1,24 @@
+.comtop img{
+    width: 5px;
+    height: 20px;
+}
+.wbg{
+    background:white;
+}
+.td div{
+    font-size: 2em;
+    padding-top: 1em;
+}
+.comtop{
+    font-weight: bold;
+    height: 2em;
+    line-height: 2em;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    border-bottom: 1px solid  rgb(245, 245, 245);
+}
+.qw div{
+    text-decoration: none;
+    font-size: 1em;
+    border-bottom: 1px solid  rgb(245, 245, 245);
+}

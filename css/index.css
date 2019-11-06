@@ -1,0 +1,160 @@
+.tt{
+    display: flex;
+    justify-content: flex-end;
+}
+.gg>ul{
+    display: flex;
+    justify-content: space-between;
+
+}
+.uy{
+    display: flex;
+    justify-content: space-between;
+}
+.ce{
+    text-align: center;
+}
+a{
+     text-decoration: none;
+ }
+.bhg{
+    background:url("../img/hd/未标题-4.jpg");
+   background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.inpu{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-flow: row;
+
+}
+.bh{
+    max-width: 400px;
+    display: -webkit-box;
+    /* autoprefixer: off */
+    -webkit-box-orient: vertical;
+    /* autoprefixer: on */
+    -webkit-line-clamp:3;
+    overflow: hidden;
+}
+div.ia img,.ib img,.ic img,.ie img,.if img,.ig img{
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 10px solid #888888;
+}
+div.id{
+    width:140px;
+    height:140px;
+    border-radius: 50%;
+}
+.id img{
+    width:140px;
+    height:140px;
+    border: 10px solid #EF7321;
+    border-radius: 50%;
+    z-index: 9999;
+}
+.byy{
+    position: relative;
+}
+.byz{
+    position: relative;
+    height: 30em;
+    line-height:30em;
+}
+.ld{
+    position: absolute;
+    z-index: 9999;
+    top: 17em;
+    left: -2em;
+}
+.id{
+    position: relative;
+    left: 2em;
+}
+.hh{
+    height: 150px;
+    line-height: 150px;
+    justify-content: space-between;
+}
+.vd{
+    display: flex;
+    justify-content: flex-end;
+}
+ul>li:first-child{
+    text-align: center;
+}
+.tf{
+    display: flex;
+    text-align: right;
+    justify-content: flex-end;
+}
+.tp{
+    background:#000000;
+    color: aliceblue;
+}
+.vd{
+    height:200px;
+    line-height: 200px;
+}
+.tf div p{
+    font-size: 1em;
+}
+.tf div{
+    padding: 0 0.5em 0 0;
+}
+.ir{
+    background: url("../img/yh/图层\ 4.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position:left;
+    background-origin: border-box;
+}
+.tu{
+    position: absolute;
+    top: 300px;
+    left: 200px;
+}
+.ft{
+    color: rgb(211, 174, 127);
+}
+.tr{
+    color: rgb(89, 89, 89);
+}
+.ty{
+    color: rgb(114,114,114);
+}
+.sanjiao{
+    width: 100%;
+}
+.sj{
+    width: 0;
+    height: 0;
+    border: 18px solid;
+    border-color: transparent transparent #EF7321;
+    position: absolute;
+    top: -26px;
+    left: 51px;
+}
+#ex1Slider .slider-selection {
+    background: #BABABA;
+}
+.hk{
+    background: rgb(245,245,245);
+    width: 100%;
+    height: 10px;
+}
+.tsj{
+    width: 0;
+    height: 0;
+    border: 18px solid;
+    z-index: 9999;
+    border-color: transparent transparent transparent white;
+}
+.lhg{
+    background: rgb(211, 174, 127);
+    width: 3rem;
+    height: 10em;
+}
