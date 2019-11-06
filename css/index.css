@@ -146,15 +146,3 @@ ul>li:first-child{
     width: 100%;
     height: 10px;
 }
-.tsj{
-    width: 0;
-    height: 0;
-    border: 18px solid;
-    z-index: 9999;
-    border-color: transparent transparent transparent white;
-}
-.lhg{
-    background: rgb(211, 174, 127);
-    width: 3rem;
-    height: 10em;
-}
